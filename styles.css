@@ -1,0 +1,20 @@
+* {font-family:Arial, Helvetica, sans-serif}
+
+h1 {
+    font-size:30px;
+    font-weight:bold;
+    color:cornsilk;
+    background-color:darkgreen;
+    text-align:center;
+}
+
+h2 {
+    background-color:cadetblue;
+    color:cornsilk;
+}
+
+img {
+    height:auto;
+    width:500px;
+    align-items: center;
+}
